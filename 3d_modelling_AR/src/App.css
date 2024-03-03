@@ -1,0 +1,23 @@
+/* App.css */
+.app {
+  text-align: center;
+}
+
+.product-list {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.product {
+  width: 200px;
+}
+
+.product img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.ar-viewer {
+  margin-top: 20px;
+}
